@@ -5,9 +5,9 @@
 choco install googlechrom foxitreader mRemoteNG  -y
 
 # install programming
+# install compiler
+choco install python3 golang -y
 choco install vscode postman -y
 choco install pycharm -y
 
-# install compiler
-choco install python golang -y
 
